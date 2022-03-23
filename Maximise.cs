@@ -21,7 +21,7 @@ namespace Maximise
         static string OutputPath = @"C:\Support\MaximoOutput";
         static string GscriptPath = @"C:\Support\_gscript\bin\gswin64.exe";
         static string GSPrintPath = @"C:\Support\_gsprint\gsprint.exe";
-        string SelectedPrinter = "\\\\PRODKPRINT01.corp.pwcs.com.au\\KITMFD3";
+        string SelectedPrinter = "\\\\<Print Server>\\KITMFD3";
 
         public Form1()
         {
